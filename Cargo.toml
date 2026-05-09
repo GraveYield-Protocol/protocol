@@ -16,7 +16,7 @@ readme = "README.md"
 
 [workspace.dependencies]
 anchor-lang = "0.31.1"
-anchor-spl = "0.31.1"
+anchor-spl = "1.0.2"
 
 [profile.release]
 overflow-checks = true
